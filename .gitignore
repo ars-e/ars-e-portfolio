@@ -1,0 +1,16 @@
+# Node / Astro
+node_modules/
+.dist/
+dist/
+.cache/
+.vercel/
+.netlify/
+.env*
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+# Editor
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
